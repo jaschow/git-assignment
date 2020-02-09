@@ -1,4 +1,12 @@
+<<<<<<< HEAD
 hello changes for stash
 hello s for stash
 hello s for stash
 hi
+=======
+hi
+hhhhhidfosesifnodifmefywnodfer
+wwydasfkmf'ufjfd
+jfuekfkep
+jfdlelfl
+>>>>>>> bdaed114dac08a2fa55ef69a5a6ba5ab840231fc
